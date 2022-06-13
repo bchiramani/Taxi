@@ -1,0 +1,42 @@
+body {
+    font-family: inherit;
+}
+
+.first-section {
+    background-color: black;
+}
+
+.button-carousel {}
+
+.second-section {
+    background-color: black;
+}
+
+.content-forth-section {
+    background-image: url(images/img-6.png);
+    width: 100%;
+    float: left;
+    height: auto;
+    background-size: 100%;
+    padding: 2%;
+}
+
+.fifth-section {
+    background-color: black;
+    color: white;
+    padding: 2% 5%;
+}
+
+.third-section h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.col-lg-5 {
+    text-align: center;
+    padding: 5%
+}
+
+.nav-link {
+    margin-right: 4em;
+}
